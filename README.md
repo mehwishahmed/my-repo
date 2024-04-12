@@ -1,2 +1,2 @@
-# stats21-demo
+# my-repo
 A demo repository made for stats 21
